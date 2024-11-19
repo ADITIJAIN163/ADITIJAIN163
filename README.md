@@ -10,11 +10,10 @@ I’m currently working on various Gen AI use cases.<br>I’m looking to collabo
 # Certifications:
 **Microsoft Azure AI Engineer Associate**
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*OtoFLnKYYOP9VUeiOxWfNQ.jpeg" width=250 height=200>
-![](https://miro.medium.com/v2/resize:fit:1400/1*OtoFLnKYYOP9VUeiOxWfNQ.jpeg)
 **Microsoft Azure AI Fundamentals** 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFZMNq1IKr5RrkcNOxviVKdlSvgIbQrPsxQ&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFZMNq1IKr5RrkcNOxviVKdlSvgIbQrPsxQ&s" width=250 height=200>
 **Microsoft Azure Fundamentals**  
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0E_MxOGxw6oy2ENXmcEWNHYpd1v14K0p8zdpJeq0dKHL1gfq0sp5HPnFtgGB4KOlmdU&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0E_MxOGxw6oy2ENXmcEWNHYpd1v14K0p8zdpJeq0dKHL1gfq0sp5HPnFtgGB4KOlmdU&usqp=CAU" width=250 height=200>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ADITIJAIN163&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ADITIJAIN163&theme=dark&hide_border=true)<br/>
